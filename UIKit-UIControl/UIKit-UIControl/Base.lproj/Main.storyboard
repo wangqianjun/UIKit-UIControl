@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aVs-tX-3vY">
-                                <rect key="frame" x="74" y="304" width="154" height="107"/>
+                                <rect key="frame" x="74" y="304" width="100" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.85283185084785629" green="1" blue="0.81199561983646185" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button">
